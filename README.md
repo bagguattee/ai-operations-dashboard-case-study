@@ -141,7 +141,7 @@ self-hosted and only the proxy publishing a host port.
 
 There are no screenshots of the product and no link to the code. The interface is the
 client's, so the visuals, the product name and the repository stay private. What I can show
-is the engineering: the architecture above, the rules and edge cases below, and the
-verification. Happy to walk through the running system and the code live on a call.
+is the engineering: the architecture above, the rules and edge cases above, and the
+verification. Happy to walk through the system and the code live on a call.
 
 
